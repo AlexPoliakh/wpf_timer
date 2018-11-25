@@ -1,0 +1,37 @@
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\bin\Debug\WpfTimer.exe.config
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\bin\Debug\WpfTimer.exe
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\bin\Debug\WpfTimer.pdb
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.csprojResolveAssemblyReference.cache
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\MainWindow.g.cs
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\App.g.cs
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.cache
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.lref
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\MainWindow.baml
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.g.resources
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.Properties.Resources.resources
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.csproj.GenerateResource.Cache
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.exe
+d:\users\vindur\documents\visual studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.pdb
+D:\Users\Vindur\Documents\Visual Studio 2015\Projects\WpfTimer\WpfTimer\bin\Debug\WpfTimer.exe.manifest
+D:\Users\Vindur\Documents\Visual Studio 2015\Projects\WpfTimer\WpfTimer\bin\Debug\WpfTimer.application
+D:\Users\Vindur\Documents\Visual Studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.exe.manifest
+D:\Users\Vindur\Documents\Visual Studio 2015\Projects\WpfTimer\WpfTimer\obj\Debug\WpfTimer.application
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\bin\Debug\WpfTimer.exe.config
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\bin\Debug\WpfTimer.exe.manifest
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\bin\Debug\WpfTimer.application
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\bin\Debug\WpfTimer.exe
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\bin\Debug\WpfTimer.pdb
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\App.g.cs
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.cache
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.lref
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\MainWindow.baml
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.g.resources
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.Properties.Resources.resources
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.exe.manifest
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.application
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.exe
+C:\Users\Александр\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.pdb
